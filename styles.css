@@ -1,1 +1,10 @@
 /* your code */
+table,th,td{
+	border: 1px solid black;
+/* 	border-collapse:collapse; */
+	border-radius:10px;
+	.head{
+		background-color:#d6ee
+	}
+	
+}
